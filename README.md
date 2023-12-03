@@ -6,12 +6,12 @@
 
 ## 👨‍💻 Captain of Data Discovery
 
-Ahoy there! I'm [Your Name], the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
+Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
 
 ## 🚀 Mission Control
 
-- **Current Coordinates:** [Your Location]
-- **Mission Status:** Exploring new frontiers in [Your Main Areas of Interest].
+- **Current Coordinates:** Banglore
+- **Mission Status:** Exploring new frontiers in Artificial Intelligence.
 - **Ship Name:** DS Voyager
 
 ## 📜 Chronicles of Data Ventures
