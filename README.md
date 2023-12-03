@@ -17,24 +17,18 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 ### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
-### [Quantum Analytics](Link to Quantum Analytics)
-Bend the fabric of data reality with this mind-bending project, where statistics and visualizations collide in a quantum dance. 📊🌀
-
-### [Neural Odyssey](Link to Neural Odyssey)
-Dive into the neural depths of artificial intelligence as we traverse the uncharted territories of deep learning. 🧠🌊
-
 ## 🎨 Palette of Tools
 
 My trusty tools on this odyssey:
 
-- **⚙️ Data Alchemy:** Python, R
+- **⚙️ Data Alchemy:** Python, 
 - **📊 Visualization Magic:** Matplotlib, Plotly, D3.js
 - **🤖 Machine Enchantment:** TensorFlow, PyTorch
 - **🗺️ Navigation:** Jupyter Notebooks, Git, Docker
 
 ## 🎭 Theatrical GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula)](https://github.com/yourusername)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=dracula)](https://github.com/Gourav052003)
 
 ## 📬 Interstellar Communication
 
