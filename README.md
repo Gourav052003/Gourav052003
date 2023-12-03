@@ -1,4 +1,4 @@
-# 🌌 Welcome to the Data Odyssey of Gourav
+# 🌌 Welcome to the Data Odyssey of GOURAV
 
 <img src="https://github.com/Gourav052003/Gourav052003/assets/81559597/169c028e-106c-4867-adee-a1a85c2831c2" alt="alternative-text"  height = 500px width = 1000px >
 
@@ -8,13 +8,13 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 
 ## 🚀 Mission Control
 
-- **Current Coordinates:** Banglore
+- **Current Coordinates:** Bangalore Urban, Karnataka, India
 - **Mission Status:** Exploring new frontiers in Artificial Intelligence.
 - **Ship Name:** DS Voyager
 
 ## 📜 Chronicles of Data Ventures
 
-### [Project Stardust](Link to Project Stardust)
+### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
 Embark on a journey through the cosmos of data in this project where we predict the future using advanced machine learning algorithms. 🚀🌠
 
 ### [Quantum Analytics](Link to Quantum Analytics)
