@@ -1,6 +1,6 @@
-# 🌌 Welcome to the Data Odyssey of [Your Name]
+# 🌌 Welcome to the Data Odyssey of Gourav
 
-![Data Odyssey Banner](path/to/banner/image.png)
+![Uploading business-data-analysis.jpg…]()
 
 ## 👨‍💻 Captain of Data Discovery
 
