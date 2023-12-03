@@ -21,7 +21,7 @@ Dive into the world of musical enchantment with Music Craft, a revolutionary Tra
 
 My trusty tools on this odyssey:
 
-- **⚙️ Data Alchemy:** Python, Power BI 
+- **⚙️ Data Alchemy:** Python, Power BI, HuggingFace, LangChain 
 - **📊 Visualization Magic:** Matplotlib, Plotly, Seaborn
 - **🤖 Machine Enchantment:** TensorFlow, Keras, nltk, Opencv, Scikit-learn
 - **🗺️ Navigation:** Git, Docker, AWS, Jupyter Notebooks
