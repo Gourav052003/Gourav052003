@@ -1,6 +1,6 @@
 # 🌌 Welcome to the Data Odyssey of Gourav
 
-![Uploading business-data-analysis.jpg…]()
+![business-data-analysis](https://github.com/Gourav052003/Gourav052003/assets/81559597/169c028e-106c-4867-adee-a1a85c2831c2)
 
 ## 👨‍💻 Captain of Data Discovery
 
