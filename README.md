@@ -32,14 +32,6 @@ My trusty tools on this odyssey:
 
 ## 📬 Interstellar Communication
 
-- **LinkedIn:** [Your LinkedIn Profile](Link to LinkedIn)
-- **Twitter:** [@YourTwitterHandle](Link to Twitter)
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [Gourav's LinkedIn](https://www.linkedin.com/in/gourav-380440219/)
+- **Email:** [gourav052003@gmail.com](mailto:gourav052003@gmail.com)
 
-## 🌟 Support the Odyssey
-
-If you've enjoyed the journey so far and want to contribute to the upkeep of the ship, consider donating a star to our celestial treasury.
-
-[![Donate a Star](https://img.shields.io/badge/Donate%20a%20Star-Contribute-yellow)](Your Donation Link)
-
-May the data be ever in your favor, fellow voyager! 🌌✨
