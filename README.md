@@ -15,7 +15,7 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 ## 📜 Chronicles of Data Ventures
 
 ### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
-Embark on a journey through the cosmos of data in this project where we predict the future using advanced machine learning algorithms. 🚀🌠
+Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
 ### [Quantum Analytics](Link to Quantum Analytics)
 Bend the fabric of data reality with this mind-bending project, where statistics and visualizations collide in a quantum dance. 📊🌀
