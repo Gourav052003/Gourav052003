@@ -14,6 +14,9 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 
 ## 📜 Chronicles of Data Ventures
 
+### [Emotions-Harmonizer](https://github.com/Gourav052003/Emotions-Harmonizer)
+Emotions Harmonizer is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
+
 ### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
