@@ -23,6 +23,10 @@ Emotions Harmonizer is a Web Application That makes use of Extrapolation techniq
 ### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
+### [WhatsApp-Chat-Analyzer](https://github.com/Gourav052003/WhatsApp-Chat-Analyzer)
+Unlock the secrets hidden within your WhatsApp conversations with the WhatsApp Chat Analyzer. This open-source project is crafted to provide users with powerful insights and analytics, transforming your chat data into meaningful information.
+
+
 ## 🎨 Palette of Tools
 
 My trusty tools on this odyssey:
