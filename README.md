@@ -8,7 +8,7 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 
 ## 🚀 Mission Control
 
-- **Current Coordinates:** Bangalore Urban, Karnataka, India
+- **Current Coordinates:** Ludhiana, Punjab, India
 - **Mission Status:** Exploring new frontiers in Artificial Intelligence.
 - **Ship Name:** DS Voyager
 
