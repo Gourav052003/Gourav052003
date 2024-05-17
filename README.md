@@ -2,6 +2,9 @@
 
 <img src="https://github.com/Gourav052003/Gourav052003/assets/81559597/169c028e-106c-4867-adee-a1a85c2831c2" alt="alternative-text"  height = 500px width = 1000px >
 
+![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/a2568133-2cb4-48e0-87ac-d2f3a0b8492f)
+
+
 ## 👨‍💻 Captain of Data Discovery
 
 Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
