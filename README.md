@@ -1,6 +1,6 @@
 # 🌌 Welcome to the Data Odyssey of GOURAV
 
-![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/a2568133-2cb4-48e0-87ac-d2f3a0b8492f)
+![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/13bbd089-3a65-4c1c-b147-da0ea1aa8802)
 
 
 ## 👨‍💻 Captain of Data Discovery
