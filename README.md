@@ -33,64 +33,16 @@ Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 ## 🎨 Palette of Tools
 
 My trusty tools on this odyssey:
+  
+- **🐍 Programming Languages:** Python, SQL
+- **📊 Statistics:** Parametric tests, Non-Parametric Tests, Hypothesis Testing
+- **📊 Data skills:** Data Cleaning, Data Evangelism, Data Integration, Data Integrity, Data Mining, Data Visualization
+- **🤖 Machine learning:** Regression, Classification, Clustering, Dimensionality Reduction, Ensemble, Bagging & Boosting
+- **🧠 Deep learning:** ANN, CNN, LSTMs, Algorithms development, Object detection, Transfer Learning
+- **🛠️ Tools:** GitHub Actions, Docker, CI/CD Pipelines, Power BI
+- **🧰 Frameworks:** Pandas, Numpy, Statsmodels, Scipy, Matplotlib, Plotly, Seaborn, Scikit-learn, HuggingFace, LangChain, nltk 
+- **☁️ Cloud:** Amazon Web Servies (AWS), Serverless Deployment
 
-- **⚙️ Data Alchemy:** Python, Power BI, HuggingFace, LangChain 
-- **📊 Visualization Magic:** Matplotlib, Plotly, Seaborn
-- **🤖 Machine Enchantment:** TensorFlow, Keras, nltk, Opencv, Scikit-learn
-- **🗺️ Navigation:** Git, Docker, AWS, Jupyter Notebooks
-
-🐍 **Programming Languages:** 
-   - Python
-   - SQL
-
-📊 **Statistics:** 
-   - Parametric tests
-   - Non-Parametric Tests
-   - Hypothesis Testing
-
-📊 **Data Skills:** 
-   - Data Cleaning
-   - Data Evangelism
-   - Data Integration
-   - Data Integrity
-   - Data Mining
-   - Data Visualization
-   - Plotly
-
-🤖 **Machine Learning:** 
-   - Regression
-   - Classification
-   - Clustering
-   - Dimensionality Reduction
-   - Ensemble
-   - Bagging & Boosting
-
-🧠 **Deep Learning:** 
-   - ANN
-   - CNN
-   - LSTMs
-   - Algorithms Development
-   - Object Detection
-   - Transfer Learning
-
-🛠️ **Tools:** 
-   - GitHub Actions
-   - Docker
-   - CI/CD Pipelines
-   - Power BI
-
-🧰 **Frameworks:** 
-   - Pandas
-   - NumPy
-   - Statsmodels
-   - SciPy
-   - Matplotlib
-   - Seaborn
-   - Scikit-learn
-
-☁️ **Cloud:** 
-   - Amazon Web Services (AWS)
-   - Serverless Deployment
 
 ## 🎭 Theatrical GitHub Stats
 
