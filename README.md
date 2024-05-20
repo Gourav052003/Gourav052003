@@ -7,12 +7,18 @@
 
 Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
 
-## 🚀 Mission Control
+## 🎨 Palette of Tools
 
-- **Current Coordinates:** Ludhiana, Punjab, India
-- **Mission Status:** Exploring new frontiers in Artificial Intelligence.
-- **Ship Name:** DS Voyager
-
+My trusty tools on this odyssey:
+  
+- **🐍 Programming Languages:** Python, SQL
+- **📊 Statistics:** Parametric tests, Non-Parametric Tests, Hypothesis Testing
+- **📊 Data skills:** Data Cleaning, Data Evangelism, Data Integration, Data Integrity, Data Mining, Data Visualization
+- **🤖 Machine learning:** Regression, Classification, Clustering, Dimensionality Reduction, Ensemble, Bagging & Boosting
+- **🧠 Deep learning:** ANN, CNN, LSTMs, Algorithms development, Object detection, Transfer Learning
+- **🛠️ Tools:** GitHub Actions, Docker, CI/CD Pipelines, Power BI
+- **🧰 Frameworks:** Pandas, Numpy, Statsmodels, Scipy, Matplotlib, Plotly, Seaborn, Scikit-learn, HuggingFace, LangChain, nltk 
+- **☁️ Cloud:** Amazon Web Servies (AWS), Serverless Deployment
 
 ## 📜 Chronicles of Data Ventures
 
@@ -30,18 +36,6 @@ Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 
 
-## 🎨 Palette of Tools
-
-My trusty tools on this odyssey:
-  
-- **🐍 Programming Languages:** Python, SQL
-- **📊 Statistics:** Parametric tests, Non-Parametric Tests, Hypothesis Testing
-- **📊 Data skills:** Data Cleaning, Data Evangelism, Data Integration, Data Integrity, Data Mining, Data Visualization
-- **🤖 Machine learning:** Regression, Classification, Clustering, Dimensionality Reduction, Ensemble, Bagging & Boosting
-- **🧠 Deep learning:** ANN, CNN, LSTMs, Algorithms development, Object detection, Transfer Learning
-- **🛠️ Tools:** GitHub Actions, Docker, CI/CD Pipelines, Power BI
-- **🧰 Frameworks:** Pandas, Numpy, Statsmodels, Scipy, Matplotlib, Plotly, Seaborn, Scikit-learn, HuggingFace, LangChain, nltk 
-- **☁️ Cloud:** Amazon Web Servies (AWS), Serverless Deployment
 
 
 ## 🎭 Theatrical GitHub Stats
