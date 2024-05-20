@@ -46,3 +46,29 @@ My trusty tools on this odyssey:
 - **LinkedIn:** [Gourav's LinkedIn](https://www.linkedin.com/in/gourav-380440219/)
 - **Email:** [gourav052003@gmail.com](mailto:gourav052003@gmail.com)
 
+# Let's connect? 🤝
+
+<p align="center">
+  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
+    <img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=for-the-badge&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003728" alt="MVP Profile" />
+  </a>
+  <a href="https://github.com/brunobritodev">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/brunobritodev">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobritodev/" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/brunobritodev">
+    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobritodev/" alt="LinkedIn" />
+  </a>
+  <a href="https://www.facebook.com/brunobritodev">
+    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunobritodev/" alt="Facebook" />
+  </a>
+</p>
+
+# Languages & Tools 🛠
+
+![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&color=green)&nbsp;![nodejs](https://img.shields.io/badge/-nodejs-05122A?style=flat&color=green)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=green)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=green)&nbsp;![terraform](https://img.shields.io/badge/-terraform-05122A?style=flat&color=green)&nbsp;  
+![OAuth2](https://img.shields.io/badge/-OAuth2-05122A?style=flat&color=orange)&nbsp;![OpenId](https://img.shields.io/badge/-OpenId-05122A?style=flat&color=orange)&nbsp;![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=orange)&nbsp;![EntityFramework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![terragrunt](https://img.shields.io/badge/-terragrunt-05122A?style=flat&color=orange)&nbsp;![k8s](https://img.shields.io/badge/-k8s-05122A?style=flat&color=orange)&nbsp;![ansible](https://img.shields.io/badge/-ansible-05122A?style=flat&color=orange)&nbsp;![sql](https://img.shields.io/badge/-sql-05122A?style=flat&color=orange)&nbsp;![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&color=orange)&nbsp;![postgre](https://img.shields.io/badge/-postgre-05122A?style=flat&color=orange)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=orange)&nbsp;![aspnet](https://img.shields.io/badge/-aspnet-05122A?style=flat&color=orange)&nbsp;![ci-cd](https://img.shields.io/badge/-devops-05122A?style=flat&color=orange)&nbsp;  
+![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&color=blue)&nbsp;![AZURE](https://img.shields.io/badge/-azure-05122A?style=flat&color=blue)&nbsp;  
+
