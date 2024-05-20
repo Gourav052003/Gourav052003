@@ -1,7 +1,7 @@
 # 🌌 Welcome to the Data Odyssey of GOURAV
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/13bbd089-3a65-4c1c-b147-da0ea1aa8802)
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 👨‍💻 Captain of Data Discovery
 
@@ -15,20 +15,24 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 
 
 ## 📜 Chronicles of Data Ventures
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
+
 ### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 "Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
 
 ### [Music-Remixing-using-LSTM-RNNs](https://github.com/Gourav052003/Music-Remixing-using-LSTM-RNNs)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 It is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
 
 ### [Music-Genre-Transformation-using-Transformers](https://github.com/Gourav052003/Music-Genre-Transformation-using-Transformers)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
 ### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
+
 
 ## 🎨 Palette of Tools
 
