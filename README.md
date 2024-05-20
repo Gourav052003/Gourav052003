@@ -13,6 +13,7 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 - **Mission Status:** Exploring new frontiers in Artificial Intelligence.
 - **Ship Name:** DS Voyager
 
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
 ## 📜 Chronicles of Data Ventures
 
 ### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
@@ -26,6 +27,7 @@ Dive into the world of musical enchantment with Music Craft, a revolutionary Tra
 
 ### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
 Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
 
 ## 🎨 Palette of Tools
 
