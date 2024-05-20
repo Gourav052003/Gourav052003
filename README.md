@@ -27,7 +27,8 @@ Dive into the world of musical enchantment with Music Craft, a revolutionary Tra
 
 ### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
 Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
 
 ## 🎨 Palette of Tools
 
