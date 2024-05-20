@@ -56,8 +56,8 @@ My trusty tools on this odyssey:
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/" alt="LinkedIn" />
   </a>
 
-  <a href="https://www.facebook.com/brunobritodev">
-    <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunobritodev/" alt="Facebook" />
+  <a href="https://mail.google.com/mail/u/0/?fs=1&to=gourav052003@gmail.com&su=SUBJECT&body=BODY&bcc=gourav052003@gmail.com@example.com&tf=cm">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=gourav052003@gmail.com&su=SUBJECT&body=BODY&bcc=gourav052003@gmail.com@example.com&tf=cm" alt="Gmail" />
   </a>
 </p>
 
