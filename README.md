@@ -48,18 +48,14 @@ My trusty tools on this odyssey:
 # Let's connect? 🤝
 
 <p align="center">
-  <a href="https://mvp.microsoft.com/en-us/PublicProfile/5003728">
-    <img src="https://img.shields.io/badge/-MVP%20Profile-blue?style=for-the-badge&logo=Microsoft&logoColor=white&link=https://mvp.microsoft.com/en-us/PublicProfile/5003728" alt="MVP Profile" />
+ 
+  <a href="https://github.com/Gourav052003">
+    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Gourav052003" alt="GitHub badge" />
   </a>
-  <a href="https://github.com/brunobritodev">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/brunobritodev" alt="GitHub badge" />
+  <a href="https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/" alt="LinkedIn" />
   </a>
-  <a href="https://www.linkedin.com/in/brunobritodev">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobritodev/" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/brunobritodev">
-    <img src="https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/brunobritodev/" alt="LinkedIn" />
-  </a>
+
   <a href="https://www.facebook.com/brunobritodev">
     <img src="https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&labelColor=blue&logo=facebook&logoColor=white&link=https://www.facebook.com/brunobritodev/" alt="Facebook" />
   </a>
