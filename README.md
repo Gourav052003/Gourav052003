@@ -15,7 +15,7 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 
 ## 📜 Chronicles of Data Ventures
 
-### [Voice-Inspired-Object-Vision](https://github.com/Gourav052003/Voice-Inspired-Object-Vision)
+### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
 "Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
 
 ### [Emotions-Harmonizer](https://github.com/Gourav052003/Emotions-Harmonizer)
