@@ -39,6 +39,59 @@ My trusty tools on this odyssey:
 - **🤖 Machine Enchantment:** TensorFlow, Keras, nltk, Opencv, Scikit-learn
 - **🗺️ Navigation:** Git, Docker, AWS, Jupyter Notebooks
 
+🐍 **Programming Languages:** 
+   - Python
+   - SQL
+
+📊 **Statistics:** 
+   - Parametric tests
+   - Non-Parametric Tests
+   - Hypothesis Testing
+
+📊 **Data Skills:** 
+   - Data Cleaning
+   - Data Evangelism
+   - Data Integration
+   - Data Integrity
+   - Data Mining
+   - Data Visualization
+   - Plotly
+
+🤖 **Machine Learning:** 
+   - Regression
+   - Classification
+   - Clustering
+   - Dimensionality Reduction
+   - Ensemble
+   - Bagging & Boosting
+
+🧠 **Deep Learning:** 
+   - ANN
+   - CNN
+   - LSTMs
+   - Algorithms Development
+   - Object Detection
+   - Transfer Learning
+
+🛠️ **Tools:** 
+   - GitHub Actions
+   - Docker
+   - CI/CD Pipelines
+   - Power BI
+
+🧰 **Frameworks:** 
+   - Pandas
+   - NumPy
+   - Statsmodels
+   - SciPy
+   - Matplotlib
+   - Seaborn
+   - Scikit-learn
+
+☁️ **Cloud:** 
+   - Amazon Web Services (AWS)
+   - Serverless Deployment
+
 ## 🎭 Theatrical GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)
