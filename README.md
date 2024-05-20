@@ -18,15 +18,14 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 ### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
 "Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
 
-### [Emotions-Harmonizer](https://github.com/Gourav052003/Emotions-Harmonizer)
-Emotions Harmonizer is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
+### [Music-Remixing-using-LSTM-RNNs](https://github.com/Gourav052003/Music-Remixing-using-LSTM-RNNs)
+It is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
 
-### [Music-Craft](https://github.com/Gourav052003/Music-Craft)
+### [Music-Genre-Transformation-using-Transformers](https://github.com/Gourav052003/Music-Genre-Transformation-using-Transformers)
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
-### [WhatsApp-Chat-Analyzer](https://github.com/Gourav052003/WhatsApp-Chat-Analyzer)
-Unlock the secrets hidden within your WhatsApp conversations with the WhatsApp Chat Analyzer. This open-source project is crafted to provide users with powerful insights and analytics, transforming your chat data into meaningful informations.
-
+### [ris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/ris-Web-Application-Deployement-on-AWS)
+Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 ## 🎨 Palette of Tools
 
