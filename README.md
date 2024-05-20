@@ -39,7 +39,7 @@ My trusty tools on this odyssey:
 
 ## 🎭 Theatrical GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=dracula)](https://github.com/Gourav052003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)
 
 ## 📬 Interstellar Communication
 
