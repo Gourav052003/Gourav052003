@@ -67,3 +67,43 @@ My trusty tools on this odyssey:
 ![OAuth2](https://img.shields.io/badge/-OAuth2-05122A?style=flat&color=orange)&nbsp;![OpenId](https://img.shields.io/badge/-OpenId-05122A?style=flat&color=orange)&nbsp;![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&color=orange)&nbsp;![EntityFramework](https://img.shields.io/badge/-EntityFramework-05122A?style=flat&color=orange)&nbsp;![terragrunt](https://img.shields.io/badge/-terragrunt-05122A?style=flat&color=orange)&nbsp;![k8s](https://img.shields.io/badge/-k8s-05122A?style=flat&color=orange)&nbsp;![ansible](https://img.shields.io/badge/-ansible-05122A?style=flat&color=orange)&nbsp;![sql](https://img.shields.io/badge/-sql-05122A?style=flat&color=orange)&nbsp;![mongodb](https://img.shields.io/badge/-mongodb-05122A?style=flat&color=orange)&nbsp;![postgre](https://img.shields.io/badge/-postgre-05122A?style=flat&color=orange)&nbsp;![mysql](https://img.shields.io/badge/-mysql-05122A?style=flat&color=orange)&nbsp;![aspnet](https://img.shields.io/badge/-aspnet-05122A?style=flat&color=orange)&nbsp;![ci-cd](https://img.shields.io/badge/-devops-05122A?style=flat&color=orange)&nbsp;  
 ![AWS](https://img.shields.io/badge/-aws-05122A?style=flat&color=blue)&nbsp;![AZURE](https://img.shields.io/badge/-azure-05122A?style=flat&color=blue)&nbsp;  
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/SQL-Programming%20Language-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL badge" />
+  
+  <!-- Statistics -->
+  <img src="https://img.shields.io/badge/Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Parametric Tests badge" />
+  <img src="https://img.shields.io/badge/Non--Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Non-Parametric Tests badge" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-green?style=for-the-badge" alt="Hypothesis Testing badge" />
+  
+  <!-- Data Skills -->
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Data%20Skills-yellow?style=for-the-badge" alt="Data Cleaning badge" />
+  <img src="https://img.shields.io/badge/Data%20Evangelism-Data%20Skills-yellow?style=for-the-badge" alt="Data Evangelism badge" />
+  <!-- Add badges for other data skills similarly -->
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Regression-Machine%20Learning-orange?style=for-the-badge" alt="Regression badge" />
+  <img src="https://img.shields.io/badge/Classification-Machine%20Learning-orange?style=for-the-badge" alt="Classification badge" />
+  <!-- Add badges for other machine learning techniques similarly -->
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/ANN-Deep%20Learning-red?style=for-the-badge" alt="ANN badge" />
+  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-red?style=for-the-badge" alt="CNN badge" />
+  <!-- Add badges for other deep learning techniques similarly -->
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Tools-lightgrey?style=for-the-badge" alt="GitHub Actions badge" />
+  <img src="https://img.shields.io/badge/Docker-Tools-lightgrey?style=for-the-badge" alt="Docker badge" />
+  <!-- Add badges for other tools similarly -->
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Pandas-Frameworks-yellow?style=for-the-badge" alt="Pandas badge" />
+  <img src="https://img.shields.io/badge/Numpy-Frameworks-yellow?style=for-the-badge" alt="NumPy badge" />
+  <!-- Add badges for other frameworks similarly -->
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-blueviolet?style=for-the-badge" alt="AWS badge" />
+  <!-- Add badges for other cloud services similarly -->
+</p>
+
