@@ -17,19 +17,15 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 ## 📜 Chronicles of Data Ventures
 
 ### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="42%"></a>
 "Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
 
 ### [Music-Remixing-using-LSTM-RNNs](https://github.com/Gourav052003/Music-Remixing-using-LSTM-RNNs)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="44%"></a>
 It is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
 
 ### [Music-Genre-Transformation-using-Transformers](https://github.com/Gourav052003/Music-Genre-Transformation-using-Transformers)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="54%"></a>
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
 ### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="47%"></a>
 Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 
