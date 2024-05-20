@@ -24,7 +24,7 @@ It is a Web Application That makes use of Extrapolation techniques to Harmonize 
 ### [Music-Genre-Transformation-using-Transformers](https://github.com/Gourav052003/Music-Genre-Transformation-using-Transformers)
 Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
 
-### [ris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/ris-Web-Application-Deployement-on-AWS)
+### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
 Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 ## 🎨 Palette of Tools
