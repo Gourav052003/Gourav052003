@@ -13,9 +13,9 @@ Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. 
 - **Mission Status:** Exploring new frontiers in Artificial Intelligence.
 - **Ship Name:** DS Voyager
 
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
-## 📜 Chronicles of Data Ventures
 
+## 📜 Chronicles of Data Ventures
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="98%"></a>
 ### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
 "Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
 
