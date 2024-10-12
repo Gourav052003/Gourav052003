@@ -65,9 +65,6 @@ Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 # Languages & Tools 🛠
 
-![csharp](https://img.shields.io/badge/-csharp-05122A?style=flat&color=green)&nbsp;![typescript](https://img.shields.io/badge/-typescript-05122A?style=flat&color=green)&nbsp;![python](https://img.shields.io/badge/-python-05122A?style=flat&color=green)&nbsp;
-
-
 <p align="center">
   <!-- Programming Languages -->
   <img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
