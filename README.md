@@ -3,7 +3,7 @@
 ![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/13bbd089-3a65-4c1c-b147-da0ea1aa8802)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-## 👨‍💻 Captain of Data Discovery ![](https://komarev.com/ghpvc/?username=Gourav052003)
+## 👨‍💻 Captain of Data Discovery
 
 Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
 
