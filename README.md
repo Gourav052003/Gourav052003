@@ -95,26 +95,6 @@ Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)
 
-## 📬 Interstellar Communication
-
-- **LinkedIn:** [Gourav's LinkedIn](https://www.linkedin.com/in/gourav-380440219/)
-- **Email:** [gourav052003@gmail.com](mailto:gourav052003@gmail.com)
-
-# Let's connect? 🤝
-
-<p align="center">
- 
-  <a href="https://github.com/Gourav052003">
-    <img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Gourav052003" alt="GitHub badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/" alt="LinkedIn" />
-  </a>
-
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=gourav052003@gmail.com&su=SUBJECT&body=BODY&bcc=gourav052003@gmail.com@example.com&tf=cm">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/?fs=1&to=gourav052003@gmail.com&su=SUBJECT&body=BODY&bcc=gourav052003@gmail.com@example.com&tf=cm" alt="Gmail" />
-  </a>
-</p>
 
 # Languages & Tools 🛠
 
