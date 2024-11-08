@@ -29,8 +29,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gourav kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav kashyap" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/gourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gourav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gourav-kashyap-data-scientist-analytics" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav kashyap" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/17298067" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gourav" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gourav052003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourav052003" height="30" width="40" /></a>
 </p>
 
