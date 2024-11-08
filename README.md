@@ -37,6 +37,46 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
+<p align="center">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
+  <img src="https://img.shields.io/badge/SQL-Programming%20Language-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL badge" />
+  
+  <!-- Statistics -->
+  <img src="https://img.shields.io/badge/Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Parametric Tests badge" />
+  <img src="https://img.shields.io/badge/Non--Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Non-Parametric Tests badge" />
+  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-green?style=for-the-badge" alt="Hypothesis Testing badge" />
+  
+  <!-- Data Skills -->
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Data%20Skills-yellow?style=for-the-badge" alt="Data Cleaning badge" />
+  <img src="https://img.shields.io/badge/Data%20Evangelism-Data%20Skills-yellow?style=for-the-badge" alt="Data Evangelism badge" />
+  <!-- Add badges for other data skills similarly -->
+
+  <!-- Machine Learning -->
+  <img src="https://img.shields.io/badge/Regression-Machine%20Learning-orange?style=for-the-badge" alt="Regression badge" />
+  <img src="https://img.shields.io/badge/Classification-Machine%20Learning-orange?style=for-the-badge" alt="Classification badge" />
+  <!-- Add badges for other machine learning techniques similarly -->
+
+  <!-- Deep Learning -->
+  <img src="https://img.shields.io/badge/ANN-Deep%20Learning-red?style=for-the-badge" alt="ANN badge" />
+  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-red?style=for-the-badge" alt="CNN badge" />
+  <!-- Add badges for other deep learning techniques similarly -->
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Tools-lightgrey?style=for-the-badge" alt="GitHub Actions badge" />
+  <img src="https://img.shields.io/badge/Docker-Tools-lightgrey?style=for-the-badge" alt="Docker badge" />
+  <!-- Add badges for other tools similarly -->
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Pandas-Frameworks-yellow?style=for-the-badge" alt="Pandas badge" />
+  <img src="https://img.shields.io/badge/Numpy-Frameworks-yellow?style=for-the-badge" alt="NumPy badge" />
+  <!-- Add badges for other frameworks similarly -->
+
+  <!-- Cloud -->
+  <img src="https://img.shields.io/badge/AWS-Cloud-blueviolet?style=for-the-badge" alt="AWS badge" />
+  <!-- Add badges for other cloud services similarly -->
+</p>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gourav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gourav" /></a></p><br><br>
 
@@ -97,46 +137,6 @@ Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
 
 
 # Languages & Tools 🛠
-
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Python-Programming%20Language-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python badge" />
-  <img src="https://img.shields.io/badge/SQL-Programming%20Language-blue?style=for-the-badge&logo=sql&logoColor=white" alt="SQL badge" />
-  
-  <!-- Statistics -->
-  <img src="https://img.shields.io/badge/Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Parametric Tests badge" />
-  <img src="https://img.shields.io/badge/Non--Parametric%20Tests-Statistics-green?style=for-the-badge" alt="Non-Parametric Tests badge" />
-  <img src="https://img.shields.io/badge/Hypothesis%20Testing-Statistics-green?style=for-the-badge" alt="Hypothesis Testing badge" />
-  
-  <!-- Data Skills -->
-  <img src="https://img.shields.io/badge/Data%20Cleaning-Data%20Skills-yellow?style=for-the-badge" alt="Data Cleaning badge" />
-  <img src="https://img.shields.io/badge/Data%20Evangelism-Data%20Skills-yellow?style=for-the-badge" alt="Data Evangelism badge" />
-  <!-- Add badges for other data skills similarly -->
-
-  <!-- Machine Learning -->
-  <img src="https://img.shields.io/badge/Regression-Machine%20Learning-orange?style=for-the-badge" alt="Regression badge" />
-  <img src="https://img.shields.io/badge/Classification-Machine%20Learning-orange?style=for-the-badge" alt="Classification badge" />
-  <!-- Add badges for other machine learning techniques similarly -->
-
-  <!-- Deep Learning -->
-  <img src="https://img.shields.io/badge/ANN-Deep%20Learning-red?style=for-the-badge" alt="ANN badge" />
-  <img src="https://img.shields.io/badge/CNN-Deep%20Learning-red?style=for-the-badge" alt="CNN badge" />
-  <!-- Add badges for other deep learning techniques similarly -->
-
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/GitHub%20Actions-Tools-lightgrey?style=for-the-badge" alt="GitHub Actions badge" />
-  <img src="https://img.shields.io/badge/Docker-Tools-lightgrey?style=for-the-badge" alt="Docker badge" />
-  <!-- Add badges for other tools similarly -->
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Pandas-Frameworks-yellow?style=for-the-badge" alt="Pandas badge" />
-  <img src="https://img.shields.io/badge/Numpy-Frameworks-yellow?style=for-the-badge" alt="NumPy badge" />
-  <!-- Add badges for other frameworks similarly -->
-
-  <!-- Cloud -->
-  <img src="https://img.shields.io/badge/AWS-Cloud-blueviolet?style=for-the-badge" alt="AWS badge" />
-  <!-- Add badges for other cloud services similarly -->
-</p>
 
 
 
