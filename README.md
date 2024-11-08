@@ -85,7 +85,7 @@
 <!-- Readme Contribution Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gourav052003&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav052003&" alt="gourav052003" width = 100% /></p>
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)]
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav052003&show_icons=true&locale=en&layout=compact" alt="gourav052003" /></p>
 
