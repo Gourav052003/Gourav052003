@@ -87,10 +87,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav052003&" alt="gourav052003" width = 100% /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav052003&show_icons=true&locale=en&layout=compact" alt="gourav052003" width=45% height=10% /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav052003&show_icons=true&locale=en&theme=blueberry" alt="gourav052003" width=50% height=40% /></p>
 
-<p height="500">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav052003&show_icons=true&locale=en&theme=blueberry" alt="gourav052003" width=50% height=40% /></p>
-
-<h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/gourav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gourav" /></a></p><br><br>
 
 
