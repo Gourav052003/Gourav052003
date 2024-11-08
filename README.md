@@ -1,3 +1,56 @@
+<h1 align="center">Hi 👋, I'm Gourav</h1>
+<h3 align="center">A passionate Data Scientist from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gourav052003&label=Profile%20views&color=0e75b6&style=flat" alt="gourav052003" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gourav052003" alt="gourav052003" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I’m currently working on [Data-Driven-Sales-Forecasting-for-Big-Mart-Retail-Outlets](https://github.com/Gourav052003/Data-Driven-Sales-Forecasting-for-Big-Mart-Retail-Outlets)
+
+- 🌱 I’m currently learning **GenerativeAI, MlOps and various Cloud technologies**
+
+- 👯 I’m looking to collaborate on [Predicting-Customer-Engagement-in-Financial-Products-Insights-from-Marketing-Campaigns](https://github.com/Gourav052003/Predicting-Customer-Engagement-in-Financial-Products-Insights-from-Marketing-Campaigns)
+
+- 🤝 I’m looking for help with [Collaborative-Filtering-Based-Book-Recommender-System-using-ML-and-Streamlit](https://github.com/Gourav052003/Collaborative-Filtering-Based-Book-Recommender-System-using-ML-and-Streamlit)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Gourav052003](https://github.com/Gourav052003)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/](https://www.linkedin.com/in/gourav-kashyap-data-scientist-analytics/)
+
+- 💬 Ask me about **Data Science, Workflow Automation and Analytics**
+
+- 📫 How to reach me **gourav052003@gmail.com**
+
+- 📄 Know about my experiences [https://github.com/Gourav052003/Gourav052003/blob/main/Data%20Anaytics%20Resume.pdf](https://github.com/Gourav052003/Gourav052003/blob/main/Data%20Anaytics%20Resume.pdf)
+
+- ⚡ Fun fact **I’m a bit of a “data detective”! 🕵️‍♂️**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/gourav kashyap" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gourav kashyap" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/gourav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="gourav" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/gourav052003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gourav052003" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/gourav"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="gourav" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gourav052003&show_icons=true&locale=en&layout=compact" alt="gourav052003" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav052003&show_icons=true&locale=en" alt="gourav052003" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav052003&" alt="gourav052003" /></p>
+
+
+
+
+
+
 # 🌌 Welcome to the Data Odyssey of GOURAV
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 ![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/13bbd089-3a65-4c1c-b147-da0ea1aa8802)
