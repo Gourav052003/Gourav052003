@@ -97,47 +97,6 @@
 
 
 
-
-# 🌌 Welcome to the Data Odyssey of GOURAV
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-![image](https://github.com/user-attachments/assets/7d159be8-2ec8-40da-a1a8-ba04dc6ef2ce)
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-
-## 👨‍💻 Captain of Data Discovery
-
-Ahoy there! I'm Gourav, the intrepid explorer navigating the vast seas of data. Join me on this epic Data Odyssey as we uncover insights, unravel mysteries, and chart new territories in the world of information.
-
-## 🎨 Palette of Tools
-
-My trusty tools on this odyssey:
-  
-- **🐍 Programming Languages:** Python, SQL
-- **📊 Statistics:** Parametric tests, Non-Parametric Tests, Hypothesis Testing
-- **📊 Data skills:** Data Cleaning, Data Evangelism, Data Integration, Data Integrity, Data Mining, Data Visualization
-- **🤖 Machine learning:** Regression, Classification, Clustering, Dimensionality Reduction, Ensemble, Bagging & Boosting
-- **🧠 Deep learning:** ANN, CNN, LSTMs, Algorithms development, Object detection, Transfer Learning
-- **🛠️ Tools:** GitHub Actions, Docker, CI/CD Pipelines, Power BI
-- **🧰 Frameworks:** Pandas, Numpy, Statsmodels, Scipy, Matplotlib, Plotly, Seaborn, Scikit-learn, HuggingFace, LangChain, nltk 
-- **☁️ Cloud:** Amazon Web Servies (AWS), Serverless Deployment
-
-## 📜 Chronicles of Data Ventures
-
-### [Object detection using Human Voice](https://github.com/Gourav052003/Object-detection-using-Human-Voice)
-"Voice-Inspired Object Vision" is a project that combines the realms of computer vision and natural language processing to create a unified system for detecting objects in images based on spoken descriptions.
-
-### [Music-Remixing-using-LSTM-RNNs](https://github.com/Gourav052003/Music-Remixing-using-LSTM-RNNs)
-It is a Web Application That makes use of Extrapolation techniques to Harmonize emotions by adding more sequences of Music to the existing Music sequences.
-
-### [Music-Genre-Transformation-using-Transformers](https://github.com/Gourav052003/Music-Genre-Transformation-using-Transformers)
-Dive into the world of musical enchantment with Music Craft, a revolutionary Transformer-based Music Crafting Web application! 🚀
-
-### [Iris-Web-Application-Deployement-on-AWS](https://github.com/Gourav052003/Iris-Web-Application-Deployement-on-AWS)
-Iris FLask WebApp deployment on AWS using Dockers, GitHub Actions, Gunicorn.
-
-
-
-
-
 ## 🎭 Theatrical GitHub Stats
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gourav052003&show_icons=true&theme=blueberry)](https://github.com/Gourav052003)
