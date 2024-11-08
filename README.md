@@ -93,10 +93,9 @@
 
 
 
-
 # 🌌 Welcome to the Data Odyssey of GOURAV
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-![image](https://github.com/Gourav052003/Gourav052003/assets/81559597/13bbd089-3a65-4c1c-b147-da0ea1aa8802)
+![image](https://github.com/user-attachments/assets/7d159be8-2ec8-40da-a1a8-ba04dc6ef2ce)
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
 ## 👨‍💻 Captain of Data Discovery
