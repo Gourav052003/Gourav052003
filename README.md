@@ -1,5 +1,5 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" border="0" alt="animated-line-image-0363" width="100%"  height="0"/>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0363.gif" border="0" alt="animated-line-image-0363" width="100%"  height="10"/>
 ![image](https://github.com/user-attachments/assets/68d344b4-f09b-4d46-b5bf-ea921ea74de7)
 
 
