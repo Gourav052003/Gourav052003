@@ -1,6 +1,7 @@
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
-![banner](https://github.com/user-attachments/assets/dd5cf676-f593-482e-a7a5-63e4ec169378)
+![image](https://github.com/user-attachments/assets/68d344b4-f09b-4d46-b5bf-ea921ea74de7)
+
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></a>
 
